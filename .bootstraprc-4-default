@@ -69,6 +69,7 @@ styles:
   buttons: true
 
   # Components
+  transitions: true
   animation: true
   dropdown: true
   button-group: true
